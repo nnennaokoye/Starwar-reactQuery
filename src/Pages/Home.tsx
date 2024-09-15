@@ -13,11 +13,10 @@ const characters: Character[] = [
   { name: 'Owen Lars', img: '/images/Young_owen.webp' },
   { name: 'Beru Whitesun lars', img: '/images/BeruWhitesunLars.webp'},
   { name: 'Obi-Wan Kenobi', img: '/images/ObiWan2022.webp' },
-  { name: 'Luke Skywalker', img: '/images/Lukeskywalker.webp' },
-  { name: 'C-3PO', img: '/images/C-3PO 6.jpeg' },
-  { name: 'R2-D2', img: '/images/R2-D2.jpeg' },
-  { name: 'R5-D4', img: '/images/R5-D4.webp' },
-  { name: 'Biggs Darklighter', img: '/images/Biggs.webp'}
+  { name: 'Biggs Darklighter', img: '/images/BiggsRebelPilot.jpg' },
+  { name: 'C-3PO', img: '/images/C-3PO.webp' },
+  { name: 'R5-D4', img: '/images/R5-D4.jpeg' },
+  
   
   
 ];
